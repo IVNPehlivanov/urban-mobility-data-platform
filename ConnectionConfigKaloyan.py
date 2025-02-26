@@ -13,7 +13,7 @@ java_home = "C:"+ os.sep + "Program Files" + os.sep +"Microsoft" +os.sep + "jdk-
 # DO NOT CHANGE ANYTHING BELOW THIS LINE
 #Configparser is a helper class to read properties from a configuration file
 config = ConfigParser()
-config.read('config.ini') #Define connection properties is the config file
+config.read(f'C:{os.sep}Users{os.sep}kkiva{os.sep}data4_project_group5{os.sep}config.ini') #Define connection properties is the config file
 cn = "default" #This is the default connection-name. Create a "default" profile in config.ini
 
 

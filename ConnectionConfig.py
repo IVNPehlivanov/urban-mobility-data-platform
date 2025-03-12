@@ -13,7 +13,7 @@ print("Dynamically set JAVA_HOME:", java_home)#########################
 # DO NOT CHANGE ANYTHING BELOW THIS LINE
 #Configparser is a helper class to read properties from a configuration file
 config = ConfigParser()
-config.read('config.ini') #Define connection properties is the config file
+config.read('/Users/user/Desktop/data4_project_group5/config.ini') #Define connection properties is the config file
 cn = "default" #This is the default connection-name. Create a "default" profile in config.ini
 
 
@@ -64,4 +64,4 @@ def set_connectionProfile(connectionName):
 
 #Returns a specific property from the connection profile in the config.ini
 def get_Property(propertyName):
-  return config.get(cn, propertyName)
+    return config.get(cn, propertyName)

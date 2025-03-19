@@ -1,0 +1,50 @@
+{
+    "zipCode": "2018",
+    "coord": {
+        "lon": 4.42545,
+        "lat": 51.2037
+    },
+    "weather": [
+        {
+            "id": 0,
+            "main": "Pleasant",
+            "description": "pleasant weather",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 14.1,
+        "feels_like": 14.1,
+        "temp_min": 13.1,
+        "temp_max": 15.6,
+        "pressure": 1015,
+        "humidity": 50,
+        "sea_level": 1015,
+        "grnd_level": 933
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.6,
+        "deg": 166,
+        "gust": 9.1
+    },
+    "rain": {
+        "1h": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1742302800,
+    "sys": {
+        "type": 2,
+        "id": 2075663,
+        "country": "BE",
+        "sunrise": 1742292000,
+        "sunset": 1742335200
+    },
+    "timezone": 3600,
+    "id": 201800,
+    "name": "Zocca",
+    "cod": 200
+}

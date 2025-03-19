@@ -1,0 +1,50 @@
+{
+    "zipCode": "2060",
+    "coord": {
+        "lon": 4.41506,
+        "lat": 51.23
+    },
+    "weather": [
+        {
+            "id": 0,
+            "main": "Pleasant",
+            "description": "pleasant weather",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 13.9,
+        "feels_like": 13.9,
+        "temp_min": 12.9,
+        "temp_max": 15.4,
+        "pressure": 1015,
+        "humidity": 50,
+        "sea_level": 1015,
+        "grnd_level": 933
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 8.3,
+        "deg": 174,
+        "gust": 8.8
+    },
+    "rain": {
+        "1h": 0
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1742299200,
+    "sys": {
+        "type": 2,
+        "id": 2075663,
+        "country": "BE",
+        "sunrise": 1742288400,
+        "sunset": 1742331600
+    },
+    "timezone": 3600,
+    "id": 206000,
+    "name": "Zocca",
+    "cod": 200
+}

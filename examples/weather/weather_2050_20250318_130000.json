@@ -14,10 +14,10 @@
     ],
     "base": "stations",
     "main": {
-        "temp": 13.8,
-        "feels_like": 13.8,
-        "temp_min": 12.8,
-        "temp_max": 15.3,
+        "temp": 10.6,
+        "feels_like": 10.6,
+        "temp_min": 9.6,
+        "temp_max": 12.1,
         "pressure": 1015,
         "humidity": 50,
         "sea_level": 1015,
@@ -25,9 +25,9 @@
     },
     "visibility": 10000,
     "wind": {
-        "speed": 9.0,
-        "deg": 182,
-        "gust": 9.5
+        "speed": 13.3,
+        "deg": 299,
+        "gust": 13.8
     },
     "rain": {
         "1h": 0
@@ -36,6 +36,7 @@
         "all": 0
     },
     "dt": 1742299200,
+    "api_current_time": "2025-03-29T17:45",
     "sys": {
         "type": 2,
         "id": 2075663,

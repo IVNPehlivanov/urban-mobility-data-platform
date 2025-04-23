@@ -6,18 +6,18 @@
     },
     "weather": [
         {
-            "id": 0,
-            "main": "Pleasant",
-            "description": "pleasant weather",
-            "icon": "01d"
+            "id": 3,
+            "main": "Neutral",
+            "description": "neutral weather",
+            "icon": "03d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 11.1,
-        "feels_like": 11.1,
-        "temp_min": 10.1,
-        "temp_max": 12.6,
+        "temp": 12.7,
+        "feels_like": 12.7,
+        "temp_min": 11.7,
+        "temp_max": 14.2,
         "pressure": 1015,
         "humidity": 50,
         "sea_level": 1015,
@@ -25,9 +25,9 @@
     },
     "visibility": 10000,
     "wind": {
-        "speed": 13.3,
-        "deg": 299,
-        "gust": 13.8
+        "speed": 12.6,
+        "deg": 112,
+        "gust": 13.1
     },
     "rain": {
         "1h": 0
@@ -36,7 +36,7 @@
         "all": 0
     },
     "dt": 1742302800,
-    "api_current_time": "2025-03-29T17:45",
+    "api_current_time": "2025-04-23T11:00",
     "sys": {
         "type": 2,
         "id": 2075663,
